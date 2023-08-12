@@ -1,4 +1,4 @@
-# Birthday Buddy
+# Reviews
 
 - Install: `npm i`
 - Run: `npm run dev`
